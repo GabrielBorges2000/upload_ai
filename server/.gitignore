@@ -1,0 +1,11 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+prisma/*.db
+
+temp/*.mp3
+temp/*.mp4
+
+*.mp3
+*.mp4
