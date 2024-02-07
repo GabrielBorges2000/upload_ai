@@ -17,20 +17,20 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
-    "@types/node": "^20.6.0",
-    "eslint": "^8.49.0",
-    "prisma": "^5.3.0",
-    "tsx": "^3.12.10",
-    "typescript": "^5.2.2"
+    "@types/node": "^20.11.9",
+    "eslint": "^8.56.0",
+    "prisma": "^5.8.1",
+    "tsx": "^3.14.0",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@fastify/cors": "^8.3.0",
+    "@fastify/cors": "^8.5.0",
     "@fastify/multipart": "^7.7.3",
-    "@prisma/client": "5.3.0",
-    "ai": "^2.2.12",
-    "dotenv": "^16.3.1",
-    "fastify": "^4.23.1",
-    "openai": "^4.6.0",
-    "zod": "^3.22.2"
+    "@prisma/client": "5.8.1",
+    "ai": "^2.2.31",
+    "dotenv": "^16.4.1",
+    "fastify": "^4.25.2",
+    "openai": "^4.26.0",
+    "zod": "^3.22.4"
   }
 }
